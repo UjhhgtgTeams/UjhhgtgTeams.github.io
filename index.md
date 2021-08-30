@@ -1,2 +1,2 @@
 # Projects:
-Sudoku Solver: https://ujhhgtgteams.github.io/SudokuSolver/
+Sudoku Solver: [Open Here!](https://ujhhgtgteams.github.io/SudokuSolver/)
