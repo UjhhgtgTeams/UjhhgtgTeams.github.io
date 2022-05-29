@@ -1,4 +1,6 @@
 # UjhhgtgTeams
 ## Projects
-[Sudoku Solver](https://ujhhgtgteams.github.io/SudokuSolver/) : A super lightweight and fast solver for sudokus.<br>
-[Error Mod](https://ujhhgtgteams.github.io/fabric-error-mod/) : A simple fabric mod that add OP items to Minecraft.
+[SudokuSolverQt](https://ujhhgtgteams.github.io/SudokuSolverQt/): A super lightweight and fast solver to sudokus.<br>
+[SudokuSolverKivi](https://ujhhgtgteams.github.io/SudokuSolverKivy/): An attempt to port SudokuSolverQt to mobile device.<br> 
+[Fabric Error Mod](https://ujhhgtgteams.github.io/fabric-error-mod/): A simple fabric mod that add OP items to Minecraft.<br>
+[]
